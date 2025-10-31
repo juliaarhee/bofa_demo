@@ -30,3 +30,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 - https://app.pluralsight.com/library/courses/angular-architecture-best-practices
 - https://app.pluralsight.com/library/courses/best-practices-angular/table-of-contents
 - https://www.udemy.com/course/testing-angular-apps/
+
+## Verification
+
+This repository has been verified for workflow testing.
